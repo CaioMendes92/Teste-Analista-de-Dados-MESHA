@@ -60,39 +60,39 @@ Para uma melhor visualização e otimização do dashboard, foi criado uma pági
 # Respostas
 
 1. Qual a escola com a maior média de notas?
-A partir do ano de 2020, o Inep decidiu retirar o nome das escolas, alegando ferir a LGPD. 
+- A partir do ano de 2020, o Inep decidiu retirar o nome das escolas, alegando ferir a LGPD. 
 Fonte: https://g1.globo.com/educacao/noticia/2022/02/22/inep-divulga-microdados-do-enem-2020-sem-informacoes-sobre-escola-e-municipio-dos-participantes-especialistas-criticam.ghtml
 
 2. Qual o aluno com a maior média de notas e o valor dessa média?
-O aluno com a maior média de notas foi o "200005996961", cuja média foi de 858,58 pontos. Uma análise mais aprofundada, levando em conta a nota de cada uma das áreas pode ser encontrada na página "Top Candidatos". Podendo ver os melhores candidatos por região.
+- O aluno com a maior média de notas foi o "200005996961", cuja média foi de 858,58 pontos. Uma análise mais aprofundada, levando em conta a nota de cada uma das áreas pode ser encontrada na página "Top Candidatos". Podendo ver os melhores candidatos por região.
 
 3. Qual a média geral?
-A média geral foi de 523,87, sendo a média do sexo masculino de 532 pontos e do sexo feminino de 519. Para uma análise de média por uma região específica ou por cor da prova, ir em "Dados do Candidato".
+- A média geral foi de 523,87, sendo a média do sexo masculino de 532 pontos e do sexo feminino de 519. Para uma análise de média por uma região específica ou por cor da prova, ir em "Dados do Candidato".
 
 4. Qual o % de Ausentes?
-A porcentagem de faltantes foi de 55,06%, o que dá um total de 3.184.243 candidatos. Vale salientar que, segundo noticiado pela mídia, o total foi de 55,3%. Como uma perspectiva futura eu iria entender mais a fundo o que houve para a porcentagem dar diferente. Para outras análises, como o total de faltantes por município, ir em "Candidatos Faltantes"
+- A porcentagem de faltantes foi de 55,06%, o que dá um total de 3.184.243 candidatos. Vale salientar que, segundo noticiado pela mídia, o total foi de 55,3%. Como uma perspectiva futura eu iria entender mais a fundo o que houve para a porcentagem dar diferente. Para outras análises, como o total de faltantes por município, ir em "Candidatos Faltantes"
 fonte: https://guiadoestudante.abril.com.br/enem/enem-2020-acumula-recordes-de-abstencoes/
 
-Qual o número total de Inscritos?
-O total foi de 5.783.109, sendo 2.314.304 do sexo masculino e 3.468.805 do sexo feminino.
+5. Qual o número total de Inscritos?
+- O total foi de 5.783.109, sendo 2.314.304 do sexo masculino e 3.468.805 do sexo feminino.
 
-Qual a média por disciplina?
-Ciências da Natureza: 490
-Ciências Humanas: 511
-Linguagens e Códigos: 524
-Matemática: 521
+6. Qual a média por disciplina?
+- Ciências da Natureza: 490
+- Ciências Humanas: 511
+- Linguagens e Códigos: 524
+- Matemática: 521
 
-Qual a média por Sexo?
-Masculino: 531,70   
-Feminino: 518,74
+7. Qual a média por Sexo?
+- Masculino: 531,70   
+- Feminino: 518,74
 
-Qual a média por Etnia?
-Amarela: 522,11
-Branca: 553,84
-Indígena: 470,65
-Não informado: 530,56
-Parda: 506,07
-Preta: 498,37
+8. Qual a média por Etnia?
+- Amarela: 522,11
+- Branca: 553,84
+- Indígena: 470,65
+- Não informado: 530,56
+- Parda: 506,07
+- Preta: 498,37
 
 # Questões Técnicas
 - Afim de tentar otimizar o processo de utilização, além de diminuir o tamanho do arquivo, as variáveis que não foram utilizadas foram deletadas, conseguindo assim reduzir o tamanho do arquivo em até 3x.
