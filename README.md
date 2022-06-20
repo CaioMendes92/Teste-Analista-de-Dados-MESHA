@@ -34,7 +34,7 @@ Critérios avaliadas:
 -----------------------------------------------------------------------------------------------------------
 # Considerações Iniciais
 Com o intuito de explorar e analisar os dados do enem 2020, foi construído um dashboard utilizando a ferramenta PowerBI. A base de dados se encontra disponível dentro do site: https://download.inep.gov.br/microdados/microdados_enem_2020.zip. 
-**O link para o dashboard se encontra [aqui](https://drive.google.com/file/d/1OAvfJG1du2bMYUB4y7fpat5XtHyUN5LP/view?usp=sharing)**
+**O link para o dashboard se encontra [aqui](https://drive.google.com/file/d/1OAvfJG1du2bMYUB4y7fpat5XtHyUN5LP/view?usp=sharing) ou [online](https://app.powerbi.com/view?r=eyJrIjoiZDE3N2I1ZjktZTRmYi00YTAxLThiNzktMDQ2ODg2MGQyYWQ4IiwidCI6IjgwODEyNWEzLThhNzUtNDVhYi04YmU3LTBhYTA4Njc3NTIxOSJ9)**
 
 # Funções DAX
 Algumas funções foram construídas para auxiliar a construção de visualizações. No intuito de facilitar a entendimento, os nomes utilizados são intuitivos, entretanto, para não restar dúvidas, irei explicar cada uma das funções construídas.
